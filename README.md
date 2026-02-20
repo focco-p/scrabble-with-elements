@@ -13,7 +13,8 @@ This project calculates letter frequencies and their corresponding percentages f
 ## Usage
 1. Ensure all required files are in the same directory.
 2. Run `calc.py` to perform calculations.
-3. Check the output in `letter_group_percentages.csv` for results.
+3. Run `percent.py` to perform further calculations.
+4. Check the output in `letter_group_percentages.csv` for results.
 
 ## Requirements
 - Python 3.x
